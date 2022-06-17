@@ -1,0 +1,17 @@
+(virtualbox doesnt support dark grey color........)
+
+---ABANDONED---
+
+do hal, create working gdt
+INTERRUPTS!!!!!!!!!!!
+
+keyboard input
+ask if correct time
+crash screen - blue/red, error message of what went wrong + shutdown
+(math - print HEX)
+
+(add strcat)
+
+basically try making a dos clone without a filesystem :)
+
+(and then add a filesystem - MUCH MUCH LATER)
