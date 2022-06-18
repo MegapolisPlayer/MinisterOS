@@ -21,4 +21,4 @@ some math and string functions
 
 Feel free to use any of the code (I myself copied a lot from the osdev wiki). For emulation it is recommended to use QEMU as VirtualBox (for some weird reason) doesn't support dark grey.
 
-I also included a few shell script which do what they say - compile and run on both platforms.
+I also included a few shell scripts which do what they say - compile and run on both platforms.
